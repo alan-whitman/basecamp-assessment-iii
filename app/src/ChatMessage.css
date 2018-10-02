@@ -1,0 +1,9 @@
+.ChatMessage    {
+    width: 80%;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    overflow: auto;
+    box-shadow: 4px 4px lightgrey;
+    border-radius: 4px;
+}

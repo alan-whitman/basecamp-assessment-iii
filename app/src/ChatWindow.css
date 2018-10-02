@@ -1,0 +1,10 @@
+.ChatWindow {
+    width: 300px;
+    height: 500px;
+    margin: 0px 0px 0px 0px;
+    padding: 10px;
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    overflow: auto;
+}
